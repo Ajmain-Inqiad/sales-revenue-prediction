@@ -1,0 +1,8 @@
+month,year,mobile_discount,laptop_discount,city,occasion,laptop,mobile,revenue
+1,2017,0,0,Dhaka,0,1,1,1500
+2,2017,0,0,Dhaka,0,1,2,1900
+3,2017,0,1,Dhaka,1,5,3,5900
+4,2017,0,0,Dhaka,0,3,0,2100
+5,2017,1,0,Dhaka,1,1,6,4912
+6,2017,0,0,Dhaka,0,2,2,2700
+7,2017,0,0,Dhaka,0,3,2,3500
